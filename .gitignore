@@ -1,0 +1,5 @@
+.playwright-mcp/
+*.pdf
+TaskData-*-concept.png
+TaskData-UX-Recommendations.pdf
+TaskData-Before-and-After.pdf
